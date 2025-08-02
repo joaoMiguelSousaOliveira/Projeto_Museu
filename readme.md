@@ -12,5 +12,6 @@
 ## Usabilidade
 
 <video width="600" controls>
-    <sourece src="midia/Museu_Nacional.webm" type="video/webm">
+    <sourece src="https://raw.githubusercontent.com/joaoMiguelSousaOliveira/Projeto_Museu/main/midia/Museu_Nacional.webm
+    " type="video/webm">
 </video>
