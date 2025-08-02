@@ -7,7 +7,7 @@
 ![alt text](midia/image-2.png)
 
 ## Footer
-![alt text](midia/image-4.png)
+![alt text](midia/image4.png)
 
 ## Usabilidade
 
